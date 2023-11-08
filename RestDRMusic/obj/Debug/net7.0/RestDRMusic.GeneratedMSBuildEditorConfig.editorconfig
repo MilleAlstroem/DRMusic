@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestDRMusic
+build_property.RootNamespace = RestDRMusic
+build_property.ProjectDir = C:\Users\mille\OneDrive\Dokumenter\Skole - Datamatiker\3rd Semester\Software Konstruktion\RestDRMusic\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mille\OneDrive\Dokumenter\Skole - Datamatiker\3rd Semester\Software Konstruktion\RestDRMusic
+build_property._RazorSourceGeneratorDebug = 
